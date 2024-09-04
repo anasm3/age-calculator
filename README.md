@@ -1,2 +1,2 @@
 # age-calculator
-A simple Age Calculator by using javascript.
+A simple Age Calculator by using Bootstrap and Javascript.
